@@ -1,0 +1,7 @@
+
+Write a simple version of wc, let’s call it ccwc that takes 
+the command line option -c and outputs the number of bytes in a file.
+the command line option -l that outputs the number of lines in a file.
+the command line option -w that outputs the number of words in a file.
+the command line option -m that outputs the number of characters in a file.
+to support the default option - i.e. no options are provided, which is the equivalent to the -c, -l and -w options
